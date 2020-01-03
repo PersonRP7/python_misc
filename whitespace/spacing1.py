@@ -1,5 +1,6 @@
 #Inefficient, reruns itself for every instance of a whitespace in every item.
 #A more efficient way would be to remove every whitespace instance for every item.
+import os
 
 img_types = [
     ".png", ".jpg", ".jpeg"

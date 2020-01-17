@@ -1,4 +1,4 @@
-# Update script for VLC youtube network streaming capability.
+# Update script for VLC youtube network streaming capability
 
 Description:
     Due to youtube's persistent URL changes, VLC's youtube network streaming capability is

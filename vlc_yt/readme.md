@@ -14,5 +14,7 @@ Requirements:
 A python interpreter 3.6 or above is required due to this script's reliance on 
 f - strings.
 
+Works only on windows.
+
 External resources:
 [youtube.luac file](https://raw.githubusercontent.com/videolan/vlc/master/share/lua/playlist/youtube.lua)

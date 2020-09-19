@@ -1,13 +1,10 @@
 import pafy, os
 
 urls = [
-    "https://www.youtube.com/watch?v=qJJgMIwqD4Q&list=RDqJJgMIwqD4Q&start_radio=1",
-    "https://www.youtube.com/watch?v=fI569nw0YUQ&list=RDqJJgMIwqD4Q&index=11",
-    "https://www.youtube.com/watch?v=zbYcte4ZEgQ",
-    "https://www.youtube.com/watch?v=30pt2XUJKGQ",
-    "https://www.youtube.com/watch?v=QB4bkfNbtTg",
-    "https://www.youtube.com/watch?v=VBvxNhaEvHE",
-    "https://www.youtube.com/watch?v=2Qs1J612nZs",
+    "https://www.youtube.com/watch?v=r_5DwObXHE0&list=RDMMuqw5fWER4Gs&index=2",
+    "https://www.youtube.com/watch?v=80mbMU7xEqc&list=RDMMuqw5fWER4Gs&index=22",
+    "https://www.youtube.com/watch?v=YGtXoOIJ7To",
+    
 
 ]
 
